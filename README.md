@@ -63,3 +63,4 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 
 
 # RESULT
+Thus the implementation of Rail-Fence-Program had been executed successully.
